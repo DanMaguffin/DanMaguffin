@@ -3,27 +3,15 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 <h3>Active Directroy Home Lab</h3>
-
--Built a Home Lab on Virtual Box  
-
--Active Directory Administration through Powershell:
- Automated Provisions, Maintained, & Deprovisioned User Accounts
-
--Set Up a Remote Access Server (RAS) features to support NAT/PAT
-
--Implemented & Maintained Windows DNS / DHPC Services
-
--Configuration of Windows File Server with implementation of quotas & NTFS permissions 
+- **[Active Directory Home Lab](https://github.com/DanMaguffin/microsoft-active-directory-home-lab)**  
 
 <h3>Microsoft Azure Sentinel Map with Live Cyber Attacks<h3></h3>
+- **[Microsoft Azure Sentinel Cyber Attack Mapping](https://github.com/DanMaguffin/Microsoft-Sentinel-with-Live-Attack-Mapping)**  
 
--Customized PowerShell script to extra meta data from Windows Event Viewer to be forwared to API to derive geolocation data
+<h3>Password-Checker<h3>
+**[Password Strength Checker](https://github.com/DanMaguffin/password-checker)** 
 
--Configured Log Analytics Workspace in Azure to review custom logs that contained geographical information
-
--Configured Azure Sentinel (SIEM) workbook to visualize attack data based on physical location and magnitude 
-
-<h2>📄Certifications</h2>
+ <h2>📄Certifications</h2>
 
 - AWS Certified Cloud Practitioner
 - Google Cyber Security Professional Certificate
