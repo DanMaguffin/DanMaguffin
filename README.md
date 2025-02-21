@@ -1,15 +1,9 @@
 <h1>Hi, I'm Dan! <br/><a>Cybersecurity Professional</a> <br/><a> IT Proffesional </a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-<h3>Active Directroy Home Lab</h3>
- - [Active Directory Home Lab](https://github.com/DanMaguffin/microsoft-active-directory-home-lab) 
- 
-<h3>Microsoft Azure Sentinel Map with Live Cyber Attacks<h3></h3>
+<b>👨‍💻 Cyber Security Projects:</b>
+- [Active Directory Home Lab](https://github.com/DanMaguffin/microsoft-active-directory-home-lab) 
  - [Microsoft Azure Sentinel Cyber Attack Mapping](https://github.com/DanMaguffin/Microsoft-Sentinel-with-Live-Attack-Mapping)  
-
-<h3>Password-Checker<h3>
- - [Password Strength Checker](https://github.com/DanMaguffin/password-checker)
+  - [Password Strength Checker](https://github.com/DanMaguffin/password-checker)
 
  <h2>📄Certifications</h2>
 
