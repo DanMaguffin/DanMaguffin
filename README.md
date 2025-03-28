@@ -11,6 +11,7 @@
 - Google Cyber Security Professional Certificate
 - (ISC)² Certified in Cybersecurity (CC)
 - CCNA: Networking Basics
+- Google IT Support
 
 <h2> 🏌🏻‍♂️About Me:</h2>
 
