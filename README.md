@@ -12,7 +12,7 @@
 - (ISC)² Certified in Cybersecurity (CC)
 - CCNA: Networking Basics
 - Google IT Support
-- IBM Pythonfor Data Science, AI & Development
+- IBM Python for Data Science, AI & Development
 
 <h2> 🏌🏻‍♂️About Me:</h2>
 
