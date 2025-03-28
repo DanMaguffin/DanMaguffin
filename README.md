@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dan! <br/><a>Cybersecurity Professional</a> <br/><a> IT Proffesional </a>
 
-<b>👨‍💻 Cyber Security Projects:</b>
+<b>👨‍💻 Cyber Security / IT Projects:</b>
 - [Active Directory Home Lab](https://github.com/DanMaguffin/microsoft-active-directory-home-lab) 
  - [Microsoft Azure Sentinel Cyber Attack Mapping](https://github.com/DanMaguffin/Microsoft-Sentinel-with-Live-Attack-Mapping)  
   - [Password Strength Checker](https://github.com/DanMaguffin/password-checker)
@@ -12,6 +12,7 @@
 - (ISC)² Certified in Cybersecurity (CC)
 - CCNA: Networking Basics
 - Google IT Support
+- IBM Pythonfor Data Science, AI & Development
 
 <h2> 🏌🏻‍♂️About Me:</h2>
 
